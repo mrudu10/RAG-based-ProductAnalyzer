@@ -181,3 +181,9 @@ Sample Output generated against companies: Mogli Technologies (https://www.mogli
 
 https://github.com/mrudu10/RAG-based-ProductAnalyzer/blob/main/competitor-analysis.pdf
 
+---
+## App's UI - https://productlensai.lovable.app/
+<img width="1374" height="895" alt="image" src="https://github.com/user-attachments/assets/d05696c0-6e64-4b8e-b852-378db322d3f5" />
+
+NOTE!!!!!!!
+Since the corpus is deployed on AstraDB, The database might be hibernated as AstraDB databases idle for over 48 hours are automatically put into hibernation. Hence the demo link might not work. This is not because of Product Implementation Failure, rather is expected due to AstraDB hibernation!!!
