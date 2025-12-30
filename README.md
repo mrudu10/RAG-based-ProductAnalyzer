@@ -178,11 +178,6 @@ ProductLens AI demonstrates how **Agentic RAG systems can be evaluated like real
 ---
 ## Generated Output Sample
 Sample Output generated against companies: Mogli Technologies (https://www.mogli.com/product) and Twilio (https://www.twilio.com/en-us/products)
+
 https://github.com/mrudu10/RAG-based-ProductAnalyzer/blob/main/competitor-analysis.pdf
-
-[View the PDF document](https://raw.githubusercontent.com/mrudu10/RAG-based-ProductAnalyzer/blob/main/competitor-analysis.pdf)
-
-
-
-
 
