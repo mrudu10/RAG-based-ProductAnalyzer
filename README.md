@@ -85,10 +85,6 @@ The agent will return:
 
 ---
 
-Here’s a **clean, technical, GitHub-ready subsection** you can drop directly under **System Architecture** or **Retrieval & Grounding Layer**. It stays precise and avoids any claims you didn’t actually implement.
-
----
-
 ## Chunking Strategy
 ProductLens AI uses a **fixed-size overlapping chunking strategy** during corpus ingestion to optimize retrieval accuracy and semantic continuity.
 
